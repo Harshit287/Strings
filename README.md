@@ -1,1 +1,2 @@
-# arrays
+# strings
+strings basic examples.
